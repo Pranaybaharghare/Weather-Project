@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top: 8rem;
+}
+
+div{
+    border: 1px solid  black;
+    border-radius: 10px;
+    width: 35%;
+    height: 13rem;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 40px;
+}
+input[type=text]{
+    width: 70%;
+    height: 40px;
+    position: relative;
+    top: 50px;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+font-size: 17px;
+
+}
+input[type=submit]{
+    width: 22%;
+    height: 35px;
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+
+}
